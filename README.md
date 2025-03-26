@@ -9,8 +9,6 @@ Interactive and responsive design
 
 Clear button to reset calculations
 
-Supports keyboard inputs (if implemented)
-
 ## 🖥️ Technologies Used
 ### HTML - Structure of the calculator
 
