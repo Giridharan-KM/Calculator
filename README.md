@@ -21,3 +21,4 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 ![image](https://github.com/user-attachments/assets/f27229fa-7425-4640-a77c-2223a705ab04)
 
 ## 🔥 Live Demo
+[Click here](https://whitecalc.netlify.app/)
